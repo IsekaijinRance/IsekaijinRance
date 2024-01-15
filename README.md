@@ -3,9 +3,11 @@
 - basic python scripting
 - Desktop apps (Qt)
 - Web development
+- Game Development
 ## 🌱 I’m currently learning:
 - C++
 - QT 
+- Game planning
 ## 📫 How to reach me ...
 
 <!---
