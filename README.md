@@ -1,7 +1,7 @@
 # 👋 I’m Isekaijin Rance
 ## 👀 I’m interested in: 
 - basic python scripting
-- Basic Angular
+- Desktop apps (Qt)
 - Web development
 ## 🌱 I’m currently learning:
 - nodejs
