@@ -4,12 +4,8 @@
 - Desktop apps (Qt)
 - Web development
 ## 🌱 I’m currently learning:
-- nodejs
-- phaser
-- Electron
 - C++
 - QT 
-- Dear ImGui
 ## 📫 How to reach me ...
 
 <!---
